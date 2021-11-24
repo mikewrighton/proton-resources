@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "b26e0c78-4422-4397-bc00-373243966867",
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:259837135622:service/t-svc/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:259837135622:service-template/t",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0"
+  }
+}
