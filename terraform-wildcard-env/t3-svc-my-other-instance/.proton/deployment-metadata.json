@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "5e745def-b488-43f1-a805-b9bf7ab0b0d9",
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:259837135622:service/t3-svc/service-instance/my-other-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:259837135622:service-template/t3",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:us-east-1:259837135622:environment/terraform-wildcard-env"
+  }
+}
