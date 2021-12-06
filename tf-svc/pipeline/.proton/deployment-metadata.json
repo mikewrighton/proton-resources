@@ -1,8 +1,8 @@
 {
-  "deploymentId" : "7211cda0-1611-4ad7-b8c6-dbd1fcdeea7a",
+  "deploymentId" : "f87bc6cb-d8e0-4c3e-bad1-f350c5cdc467",
   "resourceMetadata" : {
-    "arn" : "arn:aws:proton:ap-northeast-1:259837135622:service/tf-svc/pipeline",
-    "templateArn" : "arn:aws:proton:ap-northeast-1:259837135622:service-template/tf",
+    "arn" : "arn:aws:proton:us-east-1:259837135622:service/tf-svc/pipeline",
+    "templateArn" : "arn:aws:proton:us-east-1:259837135622:service-template/tf",
     "templateMajorVersion" : "1",
     "templateMinorVersion" : "0"
   }
