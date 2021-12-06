@@ -1,8 +1,8 @@
 {
-  "deploymentId" : "8106e6c2-bd85-4bf1-b0ad-a3f2f4a8ca6d",
+  "deploymentId" : "7b1e996f-deeb-414e-8ada-142359b78a7d",
   "resourceMetadata" : {
-    "arn" : "arn:aws:proton:ap-northeast-1:259837135622:environment/tf-env",
-    "templateArn" : "arn:aws:proton:ap-northeast-1:259837135622:environment-template/tf",
+    "arn" : "arn:aws:proton:us-east-1:259837135622:environment/tf-env",
+    "templateArn" : "arn:aws:proton:us-east-1:259837135622:environment-template/tf",
     "templateMajorVersion" : "1",
     "templateMinorVersion" : "0"
   }
