@@ -1,10 +1,10 @@
 {
-  "deploymentId" : "d93ddbfe-e251-4181-abe0-0536651b0b60",
+  "deploymentId" : "a93c7e5e-98f6-4d6e-856c-4208d8482bce",
   "resourceMetadata" : {
-    "arn" : "arn:aws:proton:ap-northeast-1:259837135622:service/tf2-svc/service-instance/my-instance",
-    "templateArn" : "arn:aws:proton:ap-northeast-1:259837135622:service-template/tf2",
+    "arn" : "arn:aws:proton:us-east-1:259837135622:service/tf2-svc/service-instance/my-other-instance",
+    "templateArn" : "arn:aws:proton:us-east-1:259837135622:service-template/tf2",
     "templateMajorVersion" : "1",
     "templateMinorVersion" : "0",
-    "environmentArn" : "arn:aws:proton:ap-northeast-1:259837135622:environment/tf-env"
+    "environmentArn" : "arn:aws:proton:us-east-1:259837135622:environment/tf-env"
   }
 }
