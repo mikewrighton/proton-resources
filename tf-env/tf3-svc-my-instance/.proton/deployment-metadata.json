@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "64189a8d-0218-427a-a617-5a6c6d3ffe85",
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:ap-northeast-1:259837135622:service/tf3-svc/service-instance/my-instance",
+    "templateArn" : "arn:aws:proton:ap-northeast-1:259837135622:service-template/tf3",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "0",
+    "environmentArn" : "arn:aws:proton:ap-northeast-1:259837135622:environment/tf-env"
+  }
+}
