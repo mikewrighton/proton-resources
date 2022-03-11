@@ -1,0 +1,10 @@
+{
+  "deploymentId" : "a14f395c-4662-45d8-956c-ad80a431a863",
+  "isResourceDeleted" : false,
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:259837135622:environment/jrtjtr",
+    "templateArn" : "arn:aws:proton:us-east-1:259837135622:environment-template/vpc-env",
+    "templateMajorVersion" : "1",
+    "templateMinorVersion" : "3"
+  }
+}
