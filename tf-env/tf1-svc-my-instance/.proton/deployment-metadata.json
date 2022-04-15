@@ -1,7 +1,8 @@
 {
-  "deploymentId" : "6caaf084-d281-4b05-9244-ad6ef0290f9c",
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
-    "arn" : "arn:aws:proton:ap-northeast-1:259837135622:service/tf1-svc/service-instance/my-other-instance",
+    "arn" : "arn:aws:proton:ap-northeast-1:259837135622:service/tf1-svc/service-instance/my-instance",
     "templateArn" : "arn:aws:proton:ap-northeast-1:259837135622:service-template/tf1",
     "templateMajorVersion" : "1",
     "templateMinorVersion" : "0",
