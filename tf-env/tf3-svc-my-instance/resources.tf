@@ -1,9 +1,5 @@
 /*
-This file is managed by AWS Proton. Any changes made directly to this file will be overwritten the next time AWS Proton performs an update.
-
-To manage this resource, see AWS Proton Resource: arn:aws:proton:ap-northeast-1:259837135622:service/tf3-svc/service-instance/my-instance
-
-If the resource is no longer is accessible within AWS Proton, it may have been deleted and may require manual cleanup.
+This file is no longer managed by AWS Proton. The associated resource has been deleted in Proton.
 */
 
 resource "aws_ssm_parameter" "my_ssm_parameter" {
